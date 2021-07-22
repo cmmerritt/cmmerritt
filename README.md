@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning: Gatsby and Sass
 - 😄 Pronouns: She/Her/Hers 
 - 💜 Interests: sci-fi, philosophy, horror, writing, gardening, knitting
-- ⚡ Fun fact: I designed and knit a red Star Trek engineering uniform for my cat. She did not appreciate it. 
+- ⚡ Fun fact: I designed and knit a red Star Trek command uniform for my cat. She did not appreciate it. 
 
 <br/>
 
