@@ -43,14 +43,17 @@
 ## 📝 Recent Projects
 ### [ Curbee -- connecting people with free curbside finds: ](https://github.com/curbee-by-curbees)<br>
 Curbee is an app that allows users to upload photos and descriptions of free curbside finds. Users can also set spotlights to be notified of finds posted within a given area. Curbee was developed remotely in an eight-day sprint with a team of six developers.<br>
+  
 Built with: JavaScript, CSS, Express, PostgreSQL, Heroku, Netlify
 
 ### [ VibeShare Front End ](https://github.com/tislais/Vibe-Share-Front-End) and [ VibeShare Server: ](https://github.com/tislais/Vibe-Share-Server)<br>
-VibeShare is a full-stack app that allows users to package and customize YouTube playlists to send to friends. Inspired by mixtapes of the '80s and '90s, VibeShare uses the YouTube API to fetch and display user playlists, while the front end allows users to choose a visual theme and write liner notes before sending their virtual mixtape to anyone in the world.<br>
+VibeShare is a full-stack app that allows users to package and customize YouTube playlists to send to friends. Inspired by mixtapes of the '80s and '90s, VibeShare uses the YouTube API to fetch and display user playlists, while the front end allows users to choose a visual theme and write liner notes before sending their virtual mixtape to anyone in the world. VibeShare was developed remotely with a team of four over a four-day sprint.<br>
+  
 Built with: React, CSS, Express, PostgreSQL, Heroku, Netlify
 
 ### [ Tarot Fortune Teller: ](https://github.com/taylor-tokareff/tarot-fortune-teller)<br>
 Tarot Fortune Teller is an app developed remotely in a four-day sprint with a team of three other developers. With the challenge of using only vanilla JS, CSS, and HTML, we created an app that uses localStorage to log in users, gives them customized tarot readings, and saves past readings.<br>
+  
 Built with: Vanilla JavaScript, CSS, HTML
 
 </p>
