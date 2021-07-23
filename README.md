@@ -34,7 +34,7 @@
   ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 - 💻 &nbsp;
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+  ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macos&logoColor=white)
 
 <br/>
 
