@@ -44,7 +44,7 @@
 ### [ Curbee -- connecting people with free curbside finds: ](https://github.com/curbee-by-curbees)<br>
 Curbee is an app that allows users to upload photos and descriptions of free curbside finds. Users can also set spotlights to be notified of finds posted within a given area. Curbee was developed remotely in an eight-day sprint with a team of six developers.<br>
   
-Built with: JavaScript, CSS, Express, PostgreSQL, Heroku, Netlify
+Built with: JavaScript, CSS, Express, PostgreSQL, Heroku, Netlify, Cloudinary, Twilio, ngrok
 
 ### [ VibeShare Front End ](https://github.com/tislais/Vibe-Share-Front-End) and [ VibeShare Server: ](https://github.com/tislais/Vibe-Share-Server)<br>
 VibeShare is a full-stack app that allows users to package and customize YouTube playlists to send to friends. Inspired by mixtapes of the '80s and '90s, VibeShare uses the YouTube API to fetch and display user playlists, while the front end allows users to choose a visual theme and write liner notes before sending their virtual mixtape to anyone in the world. VibeShare was developed remotely with a team of four over a four-day sprint.<br>
