@@ -1,6 +1,6 @@
 <h3> About Me </h3>
 
-- 🔭 I’m currently working on: a site to connect community gardeners in Portland, OR 
+- 🔭 I’m currently working on: a Golden Girls-themed placeholder image service, and a site to connect community gardeners in Portland, OR 
 - 🌱 I’m currently learning: Gatsby and Sass
 - 😄 Pronouns: She/Her/Hers 
 - 💜 Interests: sci-fi, philosophy, horror, writing, gardening, knitting
