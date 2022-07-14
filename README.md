@@ -42,7 +42,7 @@
 ## 📝 Recent Projects
 
 ### [ Bangle.js Watch App -- Date Countdown Timer: ](https://github.com/cmmerritt/BangleApps/tree/master/apps/cmmerrittapps/datecountdowntimer)<br>
-An app for the Bangle.js 2 watch that counts down to an important date. Code can be tested by using the Bangle.js 2 watch emulator with the Espruino IDE: https://www.espruino.com/ide/ (Copy code in app.js into IDE; select "Bangle.js emulator" (Bangle.js 2) from plug icon in upper left corner; click "Send to Espruino" button.
+An app for the Bangle.js 2 watch that counts down to an important date. Code can be tested by using the Bangle.js 2 watch emulator with the Espruino IDE: https://www.espruino.com/ide/ (Copy code in app.js into IDE; select "Bangle.js emulator" (Bangle.js 2) from plug icon in upper left corner; click "Send to Espruino" button.)
 
 ### [ Curbee -- connecting people with free curbside finds: ](https://github.com/curbee-by-curbees)<br>
 Curbee is an app that allows users to upload photos and descriptions of free curbside finds. Users can also set spotlights to be notified of finds posted within a given area. Curbee was developed remotely in an eight-day sprint with a team of six developers.<br>
