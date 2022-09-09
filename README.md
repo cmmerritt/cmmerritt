@@ -1,6 +1,6 @@
 <h3> About Me </h3>
 
-- 🔭 I’m currently working on: Apps for my [Bangle.js 2](https://banglejs.com/) watch 
+- 🔭 I’m currently working on: An event finder for Halloween events in Portland, OR; Apps for my [Bangle.js 2](https://banglejs.com/) watch 
 - 😄 Pronouns: She/Her/Hers 
 - 💜 Interests: sci-fi, philosophy, horror, writing, gardening, knitting
 - ⚡ Fun fact: I designed and knit a red Star Trek command uniform for my cat. She did not appreciate it. 
