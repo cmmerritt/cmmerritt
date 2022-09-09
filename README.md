@@ -43,7 +43,7 @@
 ## 📝 Recent Projects
   
 ### [ Portland Halloween Event Finder: ](https://github.com/cmmerritt/halloween-event-finder)<br>
-Halloween event finder built for Portland meetup group. Users can sign up and log in, add events, save events to a wishlist, and manage their wishlist. Anyone can see list of events. Built with React using Material-UI for responsive and mobile-friendly design, using Supabase to handle user authorization, authentication, and database. [Development deploy (in progress): ](https://pdx-halloween-dev.netlify.app/)
+Halloween event finder built for Portland meetup group. Users can sign up and log in, add events, save events to a wishlist, and manage their wishlist. Anyone can see list of events. Built with React using Material-UI for responsive and mobile-friendly design, using Supabase to handle user authorization, authentication, and database. [Development deploy (in progress)](https://pdx-halloween-dev.netlify.app/)
 
 ### [ Bangle.js Watch App -- Date Countdown Timer: ](https://github.com/cmmerritt/BangleApps/tree/master/apps/cmmerrittapps/datecountdowntimer)<br>
 An app for the Bangle.js 2 watch that counts down to an important date. Code can be tested by using the Bangle.js 2 watch emulator with the Espruino IDE: https://www.espruino.com/ide/ (Copy code in app.js into IDE; select "Bangle.js emulator" (Bangle.js 2) from plug icon in upper left corner; click "Send to Espruino" button.)
