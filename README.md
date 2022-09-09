@@ -1,6 +1,6 @@
 <h3> About Me </h3>
 
-- 💻 ![Portfolio site](https://www.christianemerritt.com/)
+- 💻 [Portfolio site](https://www.christianemerritt.com/)
 - 🔭 I’m currently working on: An event finder for Halloween events in Portland, OR; Apps for my [Bangle.js 2](https://banglejs.com/) watch 
 - 😄 Pronouns: She/Her/Hers 
 - 💜 Interests: sci-fi, philosophy, horror, writing, gardening, knitting
