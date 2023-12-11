@@ -1,7 +1,7 @@
 <h3> About Me </h3>
 
 - 💻 [Portfolio site](https://www.christianemerritt.com/)
-- 🔭 I’m currently working on: An event finder for Halloween events in Portland, OR; Apps for my [Bangle.js 2](https://banglejs.com/) watch 
+- 🔭 I’m currently working on: An email signature generator that mismatches inspirational quotes and sources. Tired of misattributed quotes? If you can't beat 'em, join 'em. Think: "Do or do not. There is no try. -Socrates" Coming soon: fonts, giphy, and other customization 
 - 😄 Pronouns: She/Her/Hers 
 - 💜 Interests: sci-fi, philosophy, horror, writing, gardening, knitting
 - ⚡ Fun fact: I designed and knit a red Star Trek command uniform for my cat. She did not appreciate it. 
