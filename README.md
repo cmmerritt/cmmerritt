@@ -20,7 +20,7 @@
 
 - REST, SOAP
 
-- Jest, Unittest
+- Jest, Pytest, Unittest
 
 ## Contact me
   
