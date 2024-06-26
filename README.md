@@ -2,7 +2,7 @@
 
 - I’m currently working on:
   - An email signature generator that mismatches inspirational quotes and sources, plus a theme-appropriate gif, complete with HTML to plug in to your email client for an instant signature. Tired of misattributed quotes? If you can't beat 'em, join 'em. Think: "Do or do not. There is no try. -Socrates"
-  - A machine learning project to predict authorship of a newspaper article
+  - A machine learning project to predict authorship of sci-fi stories published pseudonymously in the early days of pulp 
 - Pronouns: She/Her/Hers 
 - Fun fact: I designed and knit a red Star Trek command uniform for my cat. She did not appreciate it. 
 
