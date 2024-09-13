@@ -10,7 +10,9 @@
 
 - JavaScript, TypeScript, Python, PHP
 
-- React, Node.js
+- React, Node.js, Express
+
+- HTML, CSS
 
 - SQL (MySQL, PostgreSQL, MSSQL)
 
@@ -18,7 +20,7 @@
 
 - REST, SOAP
 
-- Jest, Pytest, Unittest
+- Jest, Pytest, Unittest, TDD, A/B testing
 
 ## More info about pinned projects
 
