@@ -10,7 +10,7 @@
 
 <h3>Skills</h3>
 
-- JavaScript, Python, PHP
+- JavaScript, TypeScript, Python, PHP
 
 - React, Node.js
 
