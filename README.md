@@ -30,6 +30,10 @@ Solo project built using Remix with TypeScript, plus MaterialUI. Inspired by mis
 
 Built using Next.js and TypeScript with a group of friends over a two-week sprint, Soup Swap helps you plan and organize soup swaps. My contributions were on the back end, creating a database to store users, groups, and recipes, and using supabase to provide authentication and authorization.
 
+### Portland Halloween Event Finder
+
+Solo project built with React to help members of Meetup group individually keep track of events. Log in, create events, add events to your wishlist, delete events from wishlist.
+
 ### Postcat
 
 Solo project built with React, cloning basic Postman API testing functionality, with a cat sidekick.
