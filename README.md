@@ -20,7 +20,7 @@
 
 - REST, SOAP
 
-- Jest, Pytest, Unittest, TDD, A/B testing
+- Jest, Cypress, Pytest, Unittest, TDD, BDD
 
 ## More info about pinned projects
 
