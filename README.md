@@ -47,6 +47,6 @@ Solo project built with React, cloning basic Postman API testing functionality, 
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/christiane-merritt/) 
   
-**Avatar is the artist's rendition of the Beast from a 1942 children's book that should never be read to children. I'm not actually a confusing illustration but judge for yourself on LinkedIn**
+**Avatar is the artist's rendition of the Beast from a 1942 children's book of fairy tales that should never be read to children. I'm not actually a confusing illustration but judge for yourself on LinkedIn**
 
 
