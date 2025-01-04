@@ -1,11 +1,8 @@
 ## About me
 
-- I’m currently working on:
+- Current projects:
   - An email signature generator that mismatches inspirational quotes and sources, plus a theme-appropriate gif, complete with HTML to plug in to your email client for an instant signature. Tired of misattributed quotes? If you can't beat 'em, join 'em. Think: "Do or do not. There is no try. -Socrates" (see pinned projects)
   - Learning the Godot engine and GDScript to create games
-- I'm always working on: 
-  - Things I find interesting/funny/exciting/useful, and that other people might too. I learn by building my own stuff...just ask my lovingly mangled ("re-engineered") childhood toys.
-- Pronouns: She/Her/Hers 
 
 ## Languages / Frameworks / Tools etc. -- see my project repositories for some examples
 
