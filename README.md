@@ -1,6 +1,7 @@
 ## About me
 
 - Current projects:
+  - Site to host my wearable electronics tutorials
   - An email signature generator that mismatches inspirational quotes and sources, plus a theme-appropriate gif, complete with HTML to plug in to your email client for an instant signature. Tired of misattributed quotes? If you can't beat 'em, join 'em. Think: "Do or do not. There is no try. -Socrates" (see pinned projects)
   - Learning the Godot engine and GDScript to create games
 
